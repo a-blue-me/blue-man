@@ -35,4 +35,3 @@ jobs:
           USERNAME: ${{ github.event.inputs.username }}
           VIDEOURL: ${{ github.event.inputs.videoUrl }}
           EXTRAPARAMS: ${{ github.event.inputs.extraParams }}
-
